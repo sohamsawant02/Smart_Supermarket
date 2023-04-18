@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364410289249",
+    "project_id": "fsap-e66da",
+    "storage_bucket": "fsap-e66da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364410289249:android:10c509ff95c425be9f7e20",
+        "android_client_info": {
+          "package_name": "com.example.dynamiclist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364410289249-4nto6fj089nskrmttvtdh8fh8kq427g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmpK4zC8nAjs4yH_ytD3YfumWYc-Hztos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364410289249-4nto6fj089nskrmttvtdh8fh8kq427g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
